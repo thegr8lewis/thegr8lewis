@@ -7,6 +7,8 @@
   &nbsp;&middot;&nbsp;
   <a href="mailto:Lewis.nyakaru@gmail.com">Lewis.nyakaru@gmail.com</a>
   &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/lewis-nyakaru-8ba403239">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
   Nairobi, Kenya
 </p>
 
@@ -101,56 +103,6 @@ Tools I have worked with in production and personal projects.
 
 <br />
 
-## Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://amua.co.ke">Amua</a></h3>
-      <sub>FINANCIAL ANALYTICS</sub>
-      <p>An AI-powered platform that processes M-Pesa and bank statements into business intelligence, predictive analytics, fraud detection, automated reports and customer risk profiles, helping organisations make faster, better-informed decisions.</p>
-      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-      <a href="https://amua.co.ke">amua.co.ke</a> &nbsp;&middot;&nbsp; <sub>Built at Revolution-Analytics</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://kira.co.ke">Kira</a></h3>
-      <sub>LEGAL TECH &middot; IP MANAGEMENT</sub>
-      <p>A legal-tech platform for protecting intellectual property, with TMMS, a trademark management system for legal teams: portfolio management, renewal-deadline alerts, secure case documents and a dashboard of global registrations.</p>
-      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
-      <a href="https://kira.co.ke">kira.co.ke</a> &nbsp;&middot;&nbsp; <a href="https://tmms.kira.co.ke">tmms.kira.co.ke</a> &nbsp;&middot;&nbsp; <sub>Built at Revolution-Analytics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thegr8lewis/gbv">Safespace</a></h3>
-      <sub>CIVIC SAFETY &middot; GBV SUPPORT</sub>
-      <p>A platform giving survivors of gender-based violence safe, immediate support: emergency assistance, incident reporting, AI-assisted guidance, and directions to nearby hospitals and police stations. I built the backend.</p>
-      <p><code>Django REST Framework</code> <code>React</code> <code>PostgreSQL</code> <code>Leaflet</code></p>
-      <a href="https://github.com/thegr8lewis/gbv">Source</a>
-      <!-- TODO: add the live link here once safespacekenya.co.ke is reachable again:
-      &nbsp;&middot;&nbsp; <a href="https://safespacekenya.co.ke">safespacekenya.co.ke</a> -->
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thegr8lewis/soma">Soma</a></h3>
-      <sub>E-LEARNING &middot; MOBILE + WEB</sub>
-      <p>A gamified learning app for primary-school students, with quizzes, rewards, instant feedback and progress tracking, plus a teacher dashboard. Built mobile-first in Flutter with a React web companion.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>React</code></p>
-      <a href="https://github.com/thegr8lewis/soma">Source</a> &nbsp;&middot;&nbsp; <sub>Built at Dukatech</sub>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>More on GitHub</b></summary>
-  <br />
-
-  - **[SafeAI backend](https://github.com/thegr8lewis/Backend-deepscan-ai-probe)** &mdash; Django REST API that serves a Gemini model over web chat, file uploads, a Telegram bot and API-key clients, with OpenAPI docs.
-  - **[Health Information System](https://github.com/thegr8lewis/Health-information-system)** &mdash; Doctor-facing platform for health programs and patient records, with role-based access and a REST API.
-  - **[AI Avatar](https://github.com/thegr8lewis/ai-avator)** &mdash; Browser-based 3D avatar with speech, lip sync and Gemini chat, built with Three.js.
-</details>
-
-<br />
-
 ## GitHub activity
 
 <p align="center">
@@ -180,21 +132,11 @@ Tools I have worked with in production and personal projects.
 
 <br />
 
-## Currently focused on
-
-- Production API development with **FastAPI** and **PostgreSQL**
-- Building **AI-powered software** that holds up in real workflows
-- Running services on **Google Cloud** (Cloud Run, Cloud SQL)
-- Deepening my **system design** and software engineering fundamentals
-
-<br />
-
 ## Connect
 
 <p>
   <a href="https://www.nyakaru.co.ke"><img src="https://img.shields.io/badge/Portfolio-nyakaru.co.ke-0D1117?style=for-the-badge&labelColor=0D1117&color=3DDC97" alt="Portfolio" /></a>
   <a href="mailto:Lewis.nyakaru@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/lewis-nyakaru-8ba403239"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzNEREM5NyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMyAwLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
   <a href="https://github.com/thegr8lewis"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3DDC97" alt="GitHub" /></a>
 </p>
 
