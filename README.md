@@ -1,5 +1,8 @@
 <a href="https://www.nyakaru.co.ke">
-  <img src="./assets/banner.svg" width="100%" alt="Lewis Momanyi Nyakaru. Software Engineer, Backend Engineer and AI Enthusiast based in Nairobi, Kenya." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+    <img src="./assets/banner-light.svg" width="100%" alt="Lewis Momanyi Nyakaru. Software Engineer, Backend Engineer and AI Enthusiast based in Nairobi, Kenya." />
+  </picture>
 </a>
 
 <p align="center">
@@ -61,41 +64,41 @@ Tools I have worked with in production and personal projects.
   <tr>
     <td width="150"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,js,java&theme=dark" height="40" alt="Python, JavaScript, Java" /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cjava&theme=dark" /><img src="https://skillicons.dev/icons?i=py,js,java&theme=light" height="40" alt="Python, JavaScript, Java" /></picture><br />
       <sub>SQL</sub>
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" height="40" alt="FastAPI, Django" /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cdjango&theme=dark" /><img src="https://skillicons.dev/icons?i=fastapi,django&theme=light" height="40" alt="FastAPI, Django" /></picture><br />
       <sub>REST APIs &middot; SQLAlchemy &middot; Auth &middot; Third-party integrations</sub>
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="40" alt="React, HTML, CSS" /></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss&theme=dark" /><img src="https://skillicons.dev/icons?i=react,html,css&theme=light" height="40" alt="React, HTML, CSS" /></picture></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB" /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=light" height="40" alt="PostgreSQL, MySQL, MongoDB" /></picture><br />
       <sub>Oracle</sub>
     </td>
   </tr>
   <tr>
     <td><b>Cloud &amp; DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=gcp,docker,redis,git,github&theme=dark" height="40" alt="Google Cloud, Docker, Redis, Git, GitHub" /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp%2Cdocker%2Credis%2Cgit%2Cgithub&theme=dark" /><img src="https://skillicons.dev/icons?i=gcp,docker,redis,git,github&theme=light" height="40" alt="Google Cloud, Docker, Redis, Git, GitHub" /></picture><br />
       <sub>Cloud Run &middot; Cloud SQL</sub>
     </td>
   </tr>
   <tr>
     <td><b>AI &amp; tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude_Code-1A1F24?style=for-the-badge&logo=claude&logoColor=D97757" height="28" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Claude_Design-1A1F24?style=for-the-badge&logo=claude&logoColor=D97757" height="28" alt="Claude Design" />
-      <img src="https://img.shields.io/badge/Gemini_API-1A1F24?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="28" alt="Gemini API" /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude_Code-1A1F24?style=for-the-badge&logo=claude&logoColor=D97757" /><img src="https://img.shields.io/badge/Claude_Code-F6F8FA?style=for-the-badge&logo=claude&logoColor=D97757" height="28" alt="Claude Code" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude_Design-1A1F24?style=for-the-badge&logo=claude&logoColor=D97757" /><img src="https://img.shields.io/badge/Claude_Design-F6F8FA?style=for-the-badge&logo=claude&logoColor=D97757" height="28" alt="Claude Design" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gemini_API-1A1F24?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" /><img src="https://img.shields.io/badge/Gemini_API-F6F8FA?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="28" alt="Gemini API" /></picture><br />
       <sub>AI integrations &middot; Data analytics</sub>
     </td>
   </tr>
@@ -135,9 +138,9 @@ Tools I have worked with in production and personal projects.
 ## Connect
 
 <p>
-  <a href="https://www.nyakaru.co.ke"><img src="https://img.shields.io/badge/Portfolio-nyakaru.co.ke-0D1117?style=for-the-badge&labelColor=0D1117&color=3DDC97" alt="Portfolio" /></a>
-  <a href="mailto:Lewis.nyakaru@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email" /></a>
-  <a href="https://github.com/thegr8lewis"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3DDC97" alt="GitHub" /></a>
+  <a href="https://www.nyakaru.co.ke"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-nyakaru.co.ke-0D1117?style=for-the-badge&labelColor=0D1117&color=3DDC97" /><img src="https://img.shields.io/badge/Portfolio-nyakaru.co.ke-F6F8FA?style=for-the-badge&labelColor=F6F8FA&color=0E8A5F" alt="Portfolio" /></picture></a>
+  <a href="mailto:Lewis.nyakaru@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3DDC97" /><img src="https://img.shields.io/badge/Email-F6F8FA?style=for-the-badge&logo=gmail&logoColor=0E8A5F" alt="Email" /></picture></a>
+  <a href="https://github.com/thegr8lewis"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3DDC97" /><img src="https://img.shields.io/badge/GitHub-F6F8FA?style=for-the-badge&logo=github&logoColor=0E8A5F" alt="GitHub" /></picture></a>
 </p>
 
 <sub>Open to conversations about backend engineering, fintech, legal tech and AI-powered products.</sub>
